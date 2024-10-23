@@ -1,1 +1,1 @@
-Inspired by Striver's A2Z DSA Sheet.
+Inspired by the Striver's A2Z DSA Sheet.
